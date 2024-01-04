@@ -30,3 +30,4 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'Ncplwar01'
     publishLocation: 'Container'
+
